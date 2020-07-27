@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello!
+I really enjoy eating instant ramen and reading manga!
+Naruto forever!!!
